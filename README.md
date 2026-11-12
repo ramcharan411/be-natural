@@ -1,2 +1,4 @@
-# be-natural
-a paper production web which they can order and then they can be contact with u in whatsapp
+# Be Natural
+
+Single-page site for disposable plates, bowls, cups, glasses and cutlery.
+Open `index.html` (images are in `img/`). Edit `CONFIG`, prices (`P`) and regional factors (`ZONES`) inside the file.
